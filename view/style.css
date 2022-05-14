@@ -41,8 +41,8 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/background.jpg', sizingMethod='scale')";
 	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/background.jpg', sizingMethod='scale');
 	
-	margin-bottom: 0px;
-	padding: 0px;
+	margin-bottom: 0em;
+	padding: 0em;
 }  
 /*.jumbotron:before { 
 	border: 1px solid #FFFFFF;
@@ -222,7 +222,7 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 	.fixed .navbar { top: 0px; }
 	
 	.container { padding: 60px 20px; min-width: 280px; }
-	.hidden-phone { display: none; }
+	.hidden-phone { display: flex; }
 	
 	#profile .row * { text-align: center; }
 	
