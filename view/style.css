@@ -77,7 +77,7 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 .jumbotron .scroll-down:hover .glyphicon { padding-top: 25px; }
 
 .navbar  { border: 0px; background-color: #222222; opacity: 0.9; position: absolute; top: 100%; right: 5%; width: 110px; z-index: 999; }
-.navbar .navbar-collapse { padding: 0px; max-height: none; }
+.navbar .navbar-collapse { padding: 0px;}
 .navbar .navbar-nav { float: none; }
 .navbar-nav { margin: 0px; }
 .navbar .nav > li { display: block; float: none; height: 80px; } 
